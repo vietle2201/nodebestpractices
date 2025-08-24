@@ -1,6 +1,6 @@
 [✔]: assets/images/checkbox-small-blue.png
 
-# Node.js Best Practices
+# Node.js Best Practices [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/goldbergyoni/nodebestpractices)
 
 <h1 align="center">
   <img src="assets/images/banner-2.jpg" alt="Node.js Best Practices"/>
